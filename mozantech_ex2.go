@@ -46,5 +46,4 @@ func main() {
 	} else {
 		fmt.Println("Biggest string: ", stringArray[biggestStringIndex], " (index ", biggestStringIndex+1, ")")
 	}
-
 }

@@ -37,7 +37,6 @@ func main() {
 			charMap[c] = 0
 		}
 		charMap[c]++
-		fmt.Println(c)
 	}
 	maxNumber := math.MinInt16
 	maxKey := ""

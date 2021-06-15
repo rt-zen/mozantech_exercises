@@ -1,4 +1,4 @@
-//source: https://www.linkedin.com/feed/update/urn:li:activity:6805873728812130304/
+//source: https://www.linkedin.com/posts/mozantech_wevegotyoucovered-mozantech-becomeamozer-activity-6805873728812130304-3GMN
 /*
 Once a week we will challenge you to think outside of the box and solve some coding challenges.
 Let's see if you got what it takes to become the next mozer!
